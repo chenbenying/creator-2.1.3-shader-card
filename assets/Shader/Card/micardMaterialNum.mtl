@@ -1,0 +1,35 @@
+{
+  "__type__": "cc.Material",
+  "_name": "",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "16724a7b-0efd-4194-bcc4-52d63b207ef6"
+  },
+  "_defines": {
+    "USE_ALPHA_TEST": false
+  },
+  "_props": {
+    "sprWidth": 216,
+    "sprHight": 300,
+    "worldSprWidth": 216,
+    "worldSprHeight": 300,
+    "xlist": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 100000,
+      "z": 0
+    },
+    "ylist": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 100000
+    },
+    "worldPos": {
+      "__type__": "cc.Vec2",
+      "x": 372.5,
+      "y": 170
+    }
+  }
+}

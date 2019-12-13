@@ -1,0 +1,34 @@
+{
+  "__type__": "cc.Material",
+  "_name": "",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "2c11d650-b832-483c-b0a5-def20c6fc9b6"
+  },
+  "_defines": {
+    "USE_ALPHA_TEST": false
+  },
+  "_props": {
+    "texture": null,
+    "sprWidth": 216,
+    "sprHight": 300,
+    "xlist": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "ylist": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "disX": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    }
+  }
+}
